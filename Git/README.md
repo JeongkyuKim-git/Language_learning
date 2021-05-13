@@ -15,8 +15,8 @@ git에 관련된 내용
 -------------
 > 레포지토리 (폴더 생성 및 git에 연동)  
 > mkdir [폴더 이름] --> cd [폴더 이름] --> git init  
-
-[git 설치_URL](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%84%A4%EC%B9%98)  
+  
+git 설치는 아래 이미지 선택  
 
 [![logo@2x](https://user-images.githubusercontent.com/66001539/118172030-dea5be00-b466-11eb-8f24-ed30022af150.png)](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%84%A4%EC%B9%98)
   
