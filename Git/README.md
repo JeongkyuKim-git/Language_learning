@@ -17,5 +17,7 @@ git에 관련된 내용
 > mkdir [폴더 이름] --> cd [폴더 이름] --> git init  
 
 [git 설치_URL](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%84%A4%EC%B9%98)  
+
+[![logo@2x](https://user-images.githubusercontent.com/66001539/118172030-dea5be00-b466-11eb-8f24-ed30022af150.png)](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%84%A4%EC%B9%98)
   
 <img src="https://user-images.githubusercontent.com/66001539/118171485-3a237c00-b466-11eb-9c42-033ac991d819.png" width="600px" height="300px" title="px(픽셀) 크기 설정" alt="git_init"></img><br/>  
