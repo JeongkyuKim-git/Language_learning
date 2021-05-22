@@ -7,10 +7,7 @@ Algorithms
 > 시간복잡도란? 알고리즘 실행 속도  
 > 공간복잡도란? 알고리즘이 사용하는 메모리 사이즈  
 
-|이름|시간복잡도|알고리즘|
-|:----:|:----:|:----:|
-|ㅁㄴㅇㄹ|ㅁㄴㅇㄹ|ㅁㄴㅇㄹ|
-
+<img src="https://user-images.githubusercontent.com/66001539/119220823-5343c100-bb27-11eb-97e8-24666376c8ec.png" width="600px" height="300px" title="px(픽셀) 크기 설정" alt="Image_machine"></img>
 
 *Queue*
 -------------  
