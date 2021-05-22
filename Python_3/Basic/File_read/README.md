@@ -7,7 +7,7 @@ File_read
 encoding = 'UTF8' --> 한글 사용
 
 ``` python
-with open('Data/chicken.txt', 'r', encoding='UTF8') as f:
+with open('Data/chicken.txt', 'r', encoding='UTF-8') as f:
     for line in f:
         print(line.strip())  
 ```
