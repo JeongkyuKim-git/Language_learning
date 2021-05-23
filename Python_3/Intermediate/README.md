@@ -15,8 +15,15 @@ def circle(radius):
 def square(length):
     return length * length
 ```  
-> import area는 두개의 함수를 사용할 수 있다.  
+> run.py라는 main 파일에서 import area는 두개의 함수를 사용할 수 있다.  
 > 하지만 함수가 엄청 많을 경우 불필요한 import가 될 수 있기 때문에 from을 사용할 수 있다.  
 > from area import circle  
+``` python
+# 모듈의 전체 함수 불러오기
+import area
+
+# 모듈의 각 함수 불러오기
+from area import circle
+```  
 
 
