@@ -28,6 +28,12 @@ from area import circle
 # 모듈의 사용할 여러개 함수 불러오기
 from area import circle, square, [...]
 
+# 모듈의 사용할 모든 함수 불러오기
+from area import *
 ```  
-
+> 모듈의 이름을 유사하게 사용할 경우 간단하게 별칭을 이용하여, 사용하는 방법  
+```python
+import area as ar
+ar. ~
+```  
 
