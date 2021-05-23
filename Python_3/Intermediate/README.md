@@ -24,6 +24,10 @@ import area
 
 # 모듈의 각 함수 불러오기
 from area import circle
+
+# 모듈의 사용할 여러개 함수 불러오기
+from area import circle, square, [...]
+
 ```  
 
 
