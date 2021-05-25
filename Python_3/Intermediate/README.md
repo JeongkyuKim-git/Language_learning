@@ -40,5 +40,8 @@ ar. ~
 > 현재 파일에서 사용가능한 기능을 확인하는 방법(dir 함수)  
 ``` python
 print(dir())
+
+['__annotations__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', 
 ```
+
 
