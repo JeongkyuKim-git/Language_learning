@@ -90,24 +90,81 @@ codeit
 
 *os.path (경로 탐색)*
 -------------  
->   os.path 모듈은 파일 경로를 다룰 때 쓰입니다.
+>   os.path 모듈은 파일 경로를 다룰 때 쓰입니다.  
+```python
+import os.path
 
+# 프로젝트 디렉토리 경로 '/Users/codeit/PycharmProjects/standard_modules'
+# 현재 파일 경로 '/Users/codeit/PycharmProjects/standard_modules/main.py'
+
+# 주어진 경로를 절대 경로로
+print(os.path.abspath('..'))
+
+# 주어진 경로를 현재 디렉토리를 기준으로 한 상대 경로로
+print(os.path.relpath('/Users/codeit/PycharmProjects'))
+
+# 주어진 경로들을 병합
+print(os.path.join('/Users/codeit/PycharmProjects', 'standard_modules'))
+```  
+```python
+/Users/codeit/PycharmProjects
+..
+/Users/codeit/PycharmProjects/standard_modules
+```  
 
 *re (날짜, 시간 모듈)*
 -------------  
->   
+> 프로그래밍에서 Regular Expression (RegEx, re, 한국어로는 정규 표현식)은 특정한 규칙/패턴을 가진 문자열을 표현하는 데 사용됩니다.  
+
 ```python
+import re 
 
+# 알파벳으로 구성된 단어들만 매칭
+pattern = re.compile('^[A-Za-z]+$')
+print(pattern.match('I'))
+print(pattern.match('love'))
+print(pattern.match('python3'))
+
+print()
+
+# 숫자가 포함된 단어들만 매칭
+pattern = re.compile('.*\d+')
+print(pattern.match('I'))
+print(pattern.match('love'))
+print(pattern.match('python3'))
 ```  
+```python
+<re.Match object; span=(0, 1), match='I'>
+<re.Match object; span=(0, 4), match='love'>
+None
 
+None
+None
+<re.Match object; span=(0, 7), match='python3'>
+```  
 
 *pickle (날짜, 시간 모듈)*
 -------------  
->   
+> pickle 을 사용하면 파이썬 오브젝트(객체)를 바이트(byte) 형식으로 바꿔서 파일에 저장할 수 있고 저장된 오브젝트를 읽어올 수도 있습니다.   
 ```python
+import pickle
 
+# 딕셔너리 오브젝트
+obj = {'my': 'dictionary'}  
+
+# obj를 filename.pickle 파일에 저장
+with open('filename.pickle', 'wb') as f:
+    pickle.dump(obj, f)
+
+# filename.pickle에 있는 오브젝트를 읽어옴 
+with open('filename.pickle', 'rb') as f:
+    obj = pickle.load(f)
+
+print(obj)
 ```  
-
+``` python
+{'my': 'dictionary'}
+```  
 
 *json (날짜, 시간 모듈)*
 -------------  
