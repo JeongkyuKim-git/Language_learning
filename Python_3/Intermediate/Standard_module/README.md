@@ -32,16 +32,39 @@ print(random.randint(1, 20))
 
 # 랜덤한 소수 0 <= x <= 1
 print(random.uniform(0, 1))
-```  
+```    
 
+``` python
+3
+0.599056286966887
+```  
 
 *datetime (날짜, 시간 모듈)*
 -------------  
->   
+> datetime 모듈은 날짜와 시간을 다루기 위한 다양한 '클래스'를 갖추고 있습니다. 
 ```python
+import datetime 
 
+# 현재 시간과 날짜
+today = datetime.datetime.now()
+print(today)
+
+# 출력값을 "요일, 월 일 연도"로 포매팅
+print(today.strftime("%A, %B %dth %Y"))
+
+# 특정 시간과 날짜
+pi_day = datetime.datetime(2020, 3, 14, 13, 6, 15)
+print(pi_day)
+
+# 두 datetime의 차이
+print(today - pi_day)
 ```  
-
+``` python
+2020-08-26 14:09:36.361025
+Wednesday, August 26th 2020
+2020-03-14 13:06:15
+165 days, 1:03:21.361025
+```  
 
 *os (날짜, 시간 모듈)*
 -------------  
