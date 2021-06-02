@@ -37,3 +37,13 @@ import area as ar
 ar. ~
 ```  
 
+> 현재 파일에 정의된 모든 기능을 확인하는 방법(dir 함수)  
+> [' ', ... ] 전체 내용을 네임스페이스라고 한다.  
+> __ name __ (__ 는 특수 변수)  
+``` python
+print(dir())
+
+['__annotations__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', 
+```
+
+
