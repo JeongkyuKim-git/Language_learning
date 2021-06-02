@@ -1,4 +1,4 @@
-유용한 스탠다드 모듀들
+유용한 스탠다드 모듈들
 =============
 > 모듈들에 대한 자세한 정보는 파이썬 공식 문서에서 찾을 수 있습니다:  
 [참조 내용-Standard_module_URL](https://docs.python.org/ko/3/library/)  
