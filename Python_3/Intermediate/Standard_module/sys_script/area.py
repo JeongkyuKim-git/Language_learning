@@ -1,3 +1,4 @@
+# area는 스크립트
 print('area 모듈 이름: {}'.format(__name__))
 
 PI = 3.14

@@ -1,3 +1,5 @@
+# 모듈
+
 print('run 파일 이름: {}'.format(__name__))
 #
 # import area
