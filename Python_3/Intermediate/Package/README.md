@@ -27,8 +27,8 @@ import mymath.shapes.area.circle # 오류
 ```  
 
 *02. from 방식*
--------------  
-> from 뒤에는 모듈이나 패키지가 올 수 있습니다. import 뒤에는 모듈이나 패키지 안에서 가져오고 싶은 걸 써 줍니다. import 뒤에는 . 을 쓸 수 없습니다.
+-------------   
+> from 뒤에는 모듈이나 패키지가 올 수 있습니다. import 뒤에는 모듈이나 패키지 안에서 가져오고 싶은 걸 써 줍니다. import 뒤에는 . 을 쓸 수 없습니다.  
 ``` python  
 # 패키지 안에 있는 패키지 임포트
 from mymath import shapes
@@ -41,6 +41,28 @@ from mymath.shapes.area import circle
 
 # import 뒤에는 . 을 쓸 수 없음 
 from mymath import shapes.area # 오류
+```  
+
+*03. 상대, 절대 경로*
+-------------  
+> 현재 경로에서 임포트하는 방법
+``` python  
+# 절대 경로 임포트
+from mymath.shapes import area, volume
+
+# 상대 경로 임포트
+from . import area, volume
+```  
+
+*04. 상대, 절대 경로*
+-------------  
+> 다른 패키지 경로에서 임포트하는 방법
+``` python  
+# 절대 경로 임포트
+from mymath.stats.average import data_mean
+
+# 상대 경로 임포트
+from ..stats.average import data_mean
 ```  
 
 [Top Button](#)
