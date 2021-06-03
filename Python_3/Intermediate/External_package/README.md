@@ -50,34 +50,32 @@
 > 일반적으로 프레임워크는 어떤 소프트웨어의 뼈대 같은 역할을 합니다. 웹 프레임워크는 웹 애플리케이션을 만들기 위한 뼈대입니다. 우리는 뼈대를 제외한 나머지 디테일을 채워 넣기만 하면 됩니다.  
 > [공식 웹사이트: Djangoproject](https://www.djangoproject.com/)
 
-flask
-flask는 파이썬에서 많이 쓰이는 또 다른 웹 프레임워크입니다. django  웹 개발에 필요한 모든 기능을 제공하지만 비교적 복잡하고 flask는 기본적인 기능만 제공하지만 비교적 간단합니다.
+*flask*
+------
+> flask는 파이썬에서 많이 쓰이는 또 다른 웹 프레임워크입니다. django  웹 개발에 필요한 모든 기능을 제공하지만 비교적 복잡하고 flask는 기본적인 기능만 제공하지만 비교적 간단합니다.  
+> [공식 웹사이트: Flask](https://flask.palletsprojects.com/en/1.1.x/)  
 
-공식 웹사이트: https://flask.palletsprojects.com/en/1.1.x/
+*기타*
+==========  
 
-기타
-beautifulsoup4
-beautifulsoup4는 html 또는 xml 문서를 파싱(원하는 데이터를 특정 패턴이나 순서로 추출해 가공하는 것)해 주는 라이브러리입니다. 보통 웹에서 원하는 데이터를 긁어 오는 작업인 웹 스크레이핑 (web scraping)에 많이 사용됩니다.
+*beautifulsoup4*
+-----  
+> beautifulsoup4는 html 또는 xml 문서를 파싱(원하는 데이터를 특정 패턴이나 순서로 추출해 가공하는 것)해 주는 라이브러리입니다. 보통 웹에서 원하는 데이터를 긁어 오는 작업인 웹 스크레이핑 (web scraping)에 많이 사용됩니다.  
+> [공식 웹사이트: Crummy](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)  
 
-공식 웹사이트: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+*selenium*
+-----  
+> selenium은 웹 브라우저 동작을 자동화해 주는 패키지입니다. selenium을 사용하면 클릭, 로그인, 검색, 스크롤링 등을 자동화할 수 있습니다. 웹 애플리케이션 테스팅 자동화와 웹 스크레이핑에 많이 사용됩니다.  
+> [공식 웹사이트: Selenium](https://github.com/SeleniumHQ/selenium/)  
+> [가이드: URL](https://selenium-python.readthedocs.io/)
 
-selenium
-selenium은 웹 브라우저 동작을 자동화해 주는 패키지입니다. selenium을 사용하면 클릭, 로그인, 검색, 스크롤링 등을 자동화할 수 있습니다. 웹 애플리케이션 테스팅 자동화와 웹 스크레이핑에 많이 사용됩니다.
+*requests*
+-----
+> requests는 파이썬의 간편한 http 라이브러리입니다. requests 라이브러리를 통해 쉽게 http 요청을 보낼 수 있습니다.  
+> [공식 웹사이트: Request](https://requests.readthedocs.io/en/master/)  
 
-공식 웹사이트: https://github.com/SeleniumHQ/selenium/
-
-가이드: https://selenium-python.readthedocs.io/
-
-requests
-requests는 파이썬의 간편한 http 라이브러리입니다. requests 라이브러리를 통해 쉽게 http 요청을 보낼 수 있습니다.
-
-공식 웹사이트: https://requests.readthedocs.io/en/master/
-
-opencv
-(설치: opencv-python 임포트: import cv2)
-
-opencv는 컴퓨터 비전에 많이 사용되는 라이브러리입니다. 이미지 프로세싱, 얼굴 인식, 문자 인식 등 많은 기능을 제공합니다.
-
-공식 웹사이트: https://opencv.org/
-
-관련 질문
+*opencv*
+-----
+> (설치: opencv-python 임포트: import cv2)  
+> opencv는 컴퓨터 비전에 많이 사용되는 라이브러리입니다. 이미지 프로세싱, 얼굴 인식, 문자 인식 등 많은 기능을 제공합니다.  
+> [공식 웹사이트: Opencv](https://opencv.org/)  
