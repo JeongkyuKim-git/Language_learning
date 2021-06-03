@@ -48,7 +48,7 @@
 -----  
 > django는 파이썬에서 많이 쓰이는 웹 프레임워크입니다.  
 > 일반적으로 프레임워크는 어떤 소프트웨어의 뼈대 같은 역할을 합니다. 웹 프레임워크는 웹 애플리케이션을 만들기 위한 뼈대입니다. 우리는 뼈대를 제외한 나머지 디테일을 채워 넣기만 하면 됩니다.  
-> [공식 웹사이트: Djangoproject](https://www.djangoproject.com/)
+> [공식 웹사이트: Djangoproject](https://www.djangoproject.com/)  
 
 *flask*
 ------
