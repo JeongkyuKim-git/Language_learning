@@ -9,7 +9,13 @@
 *Tip*
 ------  
 > 01. pip3 install selenium  
-> 02. pip3 install requests
+  
+> 02. pip3 install requests  
+  
 > 03. pip3 install webdriver  
+  
 > 04. chrome 설치 path 확인 
-> 05. 다운로드 받을 폴더 path 확인
+  
+> 05. 다운로드 받을 폴더 path 확인  
+
+[Top Button](#)
