@@ -6,6 +6,7 @@ Language learning
 *Python*
 -------------
 > Basic, Intermediate, Technology  
+  
 > Basic: 기본기  
 > Intermediate: 중간  
 > Technology: 사용시 편리한 기능 정리  
