@@ -16,9 +16,11 @@ print(word_reverse)
 > 토마토  
 
 <br>
+
 ***
 
-실험 결과
+> 실험 결과  
+  
 | Algorithm | 	TimeIt Execution Time (Best of 5) | Slowness |
 | ---------- | :--------- | :----------: |
 | Slicing    | 	0.449 usec       | 	1x       |
