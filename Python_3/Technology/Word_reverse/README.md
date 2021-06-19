@@ -29,3 +29,4 @@ print(word_reverse)
 | for loop	    | 5.5 usec       | 12.25x       |
 | while loop    | 9.4 usec       | 20.94x       |
 | Recursion    | 24.3 usec       | 54.12x       |
+  
