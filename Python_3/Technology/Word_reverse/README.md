@@ -16,7 +16,7 @@ word_reverse = "토마토"
 word_reverse.reverse()
 print(word_reverse)
 ```  
-> 결과: 토마토  
+> 결과: 토마토
 
 <br>
 
