@@ -1,13 +1,14 @@
 *단어를 거꾸로 변경하는 방법*
 ======  
-> Example)  
+> Example_01)  
 
 ```Python
 word = "토마토"
 print(word)
 ```  
-> 토마토
+> 토마토  
 
+> Example_02)  
 ```Python
 word_reverse = "토마토"
 word_reverse.reverse()
