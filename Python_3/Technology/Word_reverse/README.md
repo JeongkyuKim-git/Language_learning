@@ -6,7 +6,9 @@
 word = "토마토"
 print(word)
 ```  
-> 토마토  
+> 결과: 토마토  
+
+<br>
 
 > Example_02)  
 ```Python
@@ -14,7 +16,7 @@ word_reverse = "토마토"
 word_reverse.reverse()
 print(word_reverse)
 ```  
-> 토마토  
+> 결과: 토마토  
 
 <br>
 
