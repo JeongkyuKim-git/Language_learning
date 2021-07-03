@@ -4,5 +4,9 @@
 
 *Queue*
 ----- 
+- Used function  
 > import queue  
+
+- Hard code
+> python
 
