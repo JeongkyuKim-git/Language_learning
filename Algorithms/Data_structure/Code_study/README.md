@@ -10,3 +10,10 @@
 - Hard code
 > python
 
+*Stack*
+----- 
+- Recursive  
+
+- Hard code
+> python [python의 재귀는 1000번까지만 동작]  
+
