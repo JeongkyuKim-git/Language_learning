@@ -13,6 +13,7 @@
 *Stack*
 ----- 
 - Recursive  
+>  python --> 1000회 반복 초과 (종료)
 
 - Hard code
 > python [python의 재귀는 1000번까지만 동작]  
