@@ -21,7 +21,11 @@
 
 *Linked List*  
 ----- 
->
+>  
 
 *Hash Table*  
+----- 
+>  
+
+*Tree*  
 ----- 
