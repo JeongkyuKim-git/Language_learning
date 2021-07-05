@@ -3,15 +3,17 @@
 - 배열, 스택, 큐, 링크드 리스트, 해쉬 테이블, 힙 등  
 > 현실 세계의 가장 대표적인 데이터 구조? - 사전  
 
-*배열*
+*Array*  
 -----  
 
-*Queue*
+*Queue*  
 -----  
 
-*Stack*
+*Stack*  
 -----  
 
-*Linked List*
+*Linked List*  
+-----  
 
-*Heap*
+*Heap*  
+-----  
