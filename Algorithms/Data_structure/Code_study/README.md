@@ -19,5 +19,9 @@
 > python [python의 재귀는 1000번까지만 동작]  
 
 
-*Linked list*
+*Linked List*  
+----- 
+>
+
+*Hash Table*  
 ----- 
