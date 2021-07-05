@@ -1,6 +1,6 @@
 Algorithms
 =============  
-> 01. 기본적인/ 큐(Queue), 스택(Stack), 링크드 리스트(Linked List), 해쉬 테이블(Hash table), 트리 (tree), 힙 (Heap)
+> 01. 기본적인/ 큐(Queue), 스택(Stack), 링크드 리스트(Linked List), 해쉬 테이블(Hash Table), 트리 (Tree), 힙 (Heap)
 > 02. 정렬, 재귀, 동적 계획법, 고급 정렬, 탐색, 그래프  
 
 - 알고리즘 공부 참고: [알고리즘](https://visualgo.net/)  
