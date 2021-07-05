@@ -21,11 +21,13 @@
 
 *Linked List*  
 ----- 
->  
+- Hard code  
+> python 
 
 *Hash Table*  
 ----- 
->  
+- Hard code 
+> python 
 
 *Tree*  
 ----- 
