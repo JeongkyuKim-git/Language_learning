@@ -8,7 +8,7 @@
 > import queue  
 
 - Hard code
-> python
+> python queue의 저장 방법
 
 *Stack*
 ----- 
@@ -16,7 +16,7 @@
 >  python --> 1000회 반복 초과 (종료)  
 
 - Hard code  
-> python [python의 재귀는 1000번까지만 동작]  
+> python <pop과 push>
 
 
 *Linked List*  
