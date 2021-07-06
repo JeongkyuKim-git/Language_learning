@@ -8,7 +8,7 @@
 > import queue  
 
 - Hard code
-> python queue의 저장 방법
+> python <queue의 저장 방법>
 
 *Stack*
 ----- 
