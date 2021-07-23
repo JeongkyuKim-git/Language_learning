@@ -4,8 +4,8 @@
 
 *Git*  
 -----  
-- 1. git 프로그램, 2. github, 3. github desktop  
-> 1, 2, 3에 관련된 내용을 간략하게 정리함.
+- git에 관련된 1. github, 2. github desktop  
+> 1, 2에 관련된 내용을 간략하게 정리함.
 
 *Orange*  
 -----  
